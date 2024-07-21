@@ -1,2 +1,5 @@
-# git-prueba
-Es la prueba de lo que voy a hacer en el curso de git
+# titulo
+Primer repositorio de git
+
+## descripcion
+este es el repositorio de prueba del curso de git
